@@ -162,7 +162,9 @@ ul li input[type=text] {
 }
 
 @media (max-width: 768px) {
+
   .about__body {
     text-align: center;
   }
+
 }
