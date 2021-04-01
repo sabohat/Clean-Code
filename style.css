@@ -43,7 +43,8 @@ ul{
   flex-grow: 1;
 }
 
-input, button {
+.button,
+input {
   outline: none;
 }
 
